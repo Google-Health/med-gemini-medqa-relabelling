@@ -30,7 +30,7 @@ However, as part of this evaluation, we noticed that not all questions in the Me
 set are reasonable to be evaluated. We suspected that various questions include label errors
 or reference missing information such as figures or lab results that are not included.
 In order to report reliable results, we thus conducted a full relabeling of MedQA using
-at least 3 primary care physicians (PCPs) per question, asking for missinig information and
+at least 3 primary care physicians (PCPs) per question, asking for missing information and
 label errors. This repository includes the corresponding data and analysis code.
 
 ## Installation
